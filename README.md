@@ -7,11 +7,6 @@
  • Detected and tracked hand landmarks to capture finger positions and movements.
  • Trained a Random Forest classifier on extracted key points to recognize A–Z alphabet gestures.
 
-## Screenshots
-
-![Example screenshot](./img/Capture1.PNG)
-![Example screenshot](./img/Capture.PNG)
-
 ## Technologies and Tools
 * Python 
 * TensorFlow
