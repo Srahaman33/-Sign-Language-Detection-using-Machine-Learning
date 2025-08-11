@@ -1,34 +1,11 @@
 # Sign Language Interpreter using Deep Learning
 > A sign language interpreter using live video feed from the camera. 
 
-## Table of contents
-* [General info](#general-info)
-* [Demo](#demo)
-* [Screenshots](#screenshots)
-* [Technologies and Tools](#technologies-and-tools)
-* [Setup](#setup)
-* [Process](#process)
-* [Code Examples](#code-examples)
-* [Features](#features)
-
 ## General info
 
  • Developed a real-time sign language recognition system using OpenCV and Python.
  • Detected and tracked hand landmarks to capture finger positions and movements.
  • Trained a Random Forest classifier on extracted key points to recognize A–Z alphabet gestures.
-
-## Demo
-![Example screenshot](./img/demo4.gif)
-
-
-
-![Example screenshot](./img/demo2.gif)
-
-
-
-![Example screenshot](./img/demo3.gif)
-
-
 
 ## Screenshots
 
